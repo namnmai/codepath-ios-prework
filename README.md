@@ -4,7 +4,7 @@ Submitted by: **Nam Mai**
 
 **Magic Button** is an app that changes the color of the background when you press the magic button!
 
-Time spent: **2** hours spent in total
+Time spent: **3** hours spent in total
 
 ## Required Features
 
