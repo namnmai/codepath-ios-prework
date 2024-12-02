@@ -15,7 +15,7 @@ The following **required** functionality is completed:
  
 ## Video Walkthrough
 
-![CodePath-iOS-Prework](https://github.com/user-attachments/assets/7c437a6d-266b-4914-ab41-94467d712342)
+<img src="https://github.com/user-attachments/assets/7c437a6d-266b-4914-ab41-94467d712342" width="500" alt="CodePath-iOS-Prework">
 
 ## App Brainstorming (Step 4)
 
